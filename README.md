@@ -36,3 +36,7 @@ for tx in block.get('transactions', []):
 ## 🔒 Security Compliance
 - Uses environment variables for API key isolation.
 - Zero hardcoded production secrets in version control.
+
+- ## 📈 Data Visualization Output
+![Ethereum Whale Distribution](blockchain_whale_distribution.png)
+
